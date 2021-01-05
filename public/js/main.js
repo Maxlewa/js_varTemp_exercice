@@ -70,6 +70,8 @@ let d = 4
 let e = 5
 let f = 6
 
+// 2 VARIABLES
+
 // let temp;
 // let tempDeux;
 
@@ -84,6 +86,8 @@ let f = 6
 // temp = d
 // d = tempDeux
 // a = temp
+
+// 1 VARIABLE
 
 temp = c
 
